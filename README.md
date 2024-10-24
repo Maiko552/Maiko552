@@ -1,6 +1,5 @@
 
 - 📚 Eu sou estágiario Back-end
-- 📩 Contate-me no email: mknsposito@gmail.com
 
 
   
