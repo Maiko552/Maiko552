@@ -1,5 +1,6 @@
 
 - 📚 Eu sou estágiario Back-end
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+MAIKON+SPOSITO;I'm+23+years+old;I+am+from+SãoPaulo,+SP;I+study+computer+science+at+UNICSUL;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
